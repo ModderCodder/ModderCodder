@@ -4,7 +4,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ModderCodder/ModderCodder/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/ModderCodder/ModderCodder/output/github-snake.svg" />
 </picture>
-# 💫 About Me:
+
 🥷Developer from Krasnodar<br>😈Obsessed with code<br>👨🏻‍💻I am currently working in the Code Forge team.<br>😎I will be glad to work with you
 
 
