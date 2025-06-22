@@ -1,9 +1,6 @@
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ModderCodder/ModderCodder/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ModderCodder/ModderCodder/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ModderCodder/ModderCodder/output/github-snake.svg" />
-</picture>
+<div align="center">
+  <img src="240820264-31edfb91-6645-4b85-b273-b5280b342e0b.gif" width="600" height="300"/>
+</div>
 
 🥷Developer from Krasnodar<br>😈Obsessed with code<br>👨🏻‍💻I am currently working in the Code Forge team.<br>😎I will be glad to work with you
 
@@ -27,4 +24,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ModderCodder&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ModderCodder/ModderCodder/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ModderCodder/ModderCodder/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ModderCodder/ModderCodder/output/github-snake.svg" />
+</picture>
+
