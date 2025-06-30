@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="600" height="300"/>
 </div>
 
-🥷Developer from Krasnodar<br>😈Obsessed with code<br>👨🏻‍💻I am currently working in the Code Forge team.<br>💻Software Developer<br>😎I will be glad to work with you
+🥷Developer from Krasnodar<br>😈Obsessed with code<br>👨🏻‍💻I am currently working in the Code Forge team.<br>💻Software and Backend Developer<br>😎I will be glad to work with you
 
 
 ## 🌐 Socials:
