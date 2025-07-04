@@ -40,26 +40,29 @@
 
 ### ⚙️ Backend
 
-https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white
-https://img.shields.io/badge/django-%2523092E20.svg?style=flat&logo=django&logoColor=white
-https://img.shields.io/badge/flask-%2523000.svg?style=flat&logo=flask&logoColor=white
-https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
 
 ---
 
 ### 🗃️ Databases
 
-https://img.shields.io/badge/MongoDB-%25234ea94b.svg?style=flat&logo=mongodb&logoColor=white
-https://img.shields.io/badge/postgres-%2523316192.svg?style=flat&logo=postgresql&logoColor=white
-https://img.shields.io/badge/redis-%2523DD0031.svg?style=flat&logo=redis&logoColor=white
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+
 
 ---
 
 ### 🛠️ Tools
 
-https://img.shields.io/badge/docker-%25230db7ed.svg?style=flat&logo=docker&logoColor=white
-https://img.shields.io/badge/git-%2523F05033.svg?style=flat&logo=git&logoColor=white
-https://img.shields.io/badge/VS%2520Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
 
 📊 GitHub Stats
 <div align="center">
