@@ -17,37 +17,45 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/terrifiying)
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
-# 🧰 Languages
+### 🧰 Languages
 
-https://img.shields.io/badge/c%2523-%2523239120.svg?style=flat&logo=csharp&logoColor=white
-https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54
-https://img.shields.io/badge/javascript-%2523323330.svg?style=flat&logo=javascript&logoColor=%2523F7DF1E
-https://img.shields.io/badge/java-%2523ED8B00.svg?style=flat&logo=openjdk&logoColor=white
-https://img.shields.io/badge/c++-%252300599C.svg?style=flat&logo=c%252B%252B&logoColor=white
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 
-# 🖥️ Frontend
+---
 
-https://img.shields.io/badge/react-%252320232a.svg?style=flat&logo=react&logoColor=%252361DAFB
-https://img.shields.io/badge/vue.js-%252335495e.svg?style=flat&logo=vuedotjs&logoColor=%25234FC08D
-https://img.shields.io/badge/html5-%2523E34F26.svg?style=flat&logo=html5&logoColor=white
-https://img.shields.io/badge/css3-%25231572B6.svg?style=flat&logo=css3&logoColor=white
+### 🖥️ Frontend
 
-# ⚙️ Backend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+
+---
+
+### ⚙️ Backend
 
 https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white
 https://img.shields.io/badge/django-%2523092E20.svg?style=flat&logo=django&logoColor=white
 https://img.shields.io/badge/flask-%2523000.svg?style=flat&logo=flask&logoColor=white
 https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white
 
-# 🗃️ Databases
+---
+
+### 🗃️ Databases
 
 https://img.shields.io/badge/MongoDB-%25234ea94b.svg?style=flat&logo=mongodb&logoColor=white
 https://img.shields.io/badge/postgres-%2523316192.svg?style=flat&logo=postgresql&logoColor=white
 https://img.shields.io/badge/redis-%2523DD0031.svg?style=flat&logo=redis&logoColor=white
 
-# 🛠️ Tools
+---
+
+### 🛠️ Tools
 
 https://img.shields.io/badge/docker-%25230db7ed.svg?style=flat&logo=docker&logoColor=white
 https://img.shields.io/badge/git-%2523F05033.svg?style=flat&logo=git&logoColor=white
