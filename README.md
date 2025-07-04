@@ -65,11 +65,11 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
 
 📊 GitHub Stats
-<div align="center">
-  https://github-readme-stats.vercel.app/api?username=BinaryModder&show_icons=true&theme=radical&hide_border=true
-  https://github-readme-streak-stats.herokuapp.com/?user=BinaryModder&theme=radical&hide_border=true
-  https://github-readme-stats.vercel.app/api/top-langs/?username=BinaryModder&layout=compact&theme=radical&hide_border=true
-</div>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BinaryModder&show_icons=true&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BinaryModder&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BinaryModder&layout=compact&theme=radical&hide_border=true)
+
 
 
 ## 🏆 GitHub Trophies
