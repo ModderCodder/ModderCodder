@@ -10,8 +10,8 @@
 + 👨‍💻 Core member of Code Forge team
 + 💻 Full-Stack & Backend Specialist
 + 🚀 Open to collaborations and innovative projects
-+ 🤝Also refer to https://github.com/IvanZhutyaev
-## 🌐 Socials & Contact:
++ 🤝Also refer to [IvanZhutyaev](https://github.com/IvanZhutyaev)
++ ## 🌐 Socials & Contact:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1modder.path1@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/terrifiying)
