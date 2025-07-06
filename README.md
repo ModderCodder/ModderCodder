@@ -8,7 +8,7 @@
 + 🥷 Developer from Krasnodar, Russia
 + 😈 Obsessed with clean and efficient code
 + 👨‍💻 Core member of Code Forge team
-+ 💻 Software & Backend Specialist
++ 💻 Software & Backend Developer
 + 🚀 Open to collaborations and innovative projects
 + 🤝Also refer to [IvanZhutyaev](https://github.com/IvanZhutyaev)
 
