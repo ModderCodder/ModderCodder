@@ -4,7 +4,6 @@
 
 <h1 align="center">💫 About Me</h1>
 
-
 + 🥷 Developer from Krasnodar, Russia
 + 😈 Obsessed with clean and efficient code
 + 👨‍💻 Core member of Code Forge team
